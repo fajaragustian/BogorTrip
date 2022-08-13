@@ -3,7 +3,7 @@
 Merupakan sebuah template landing page yang dibuat berdasarkan studi kasus yang dikembangkan untuk sebuah
 portopolio fajar agustian dan akan dibuatkan ke dalam sebuah project sederhana berbasis framework laravel yaitu reservasi trip sederhana. Landing Page ini dibuat menggunakan :
 
-- [Figma - Slincing UI](https://www.figma.com/).
+
 - [Figma - Slincing UI](https://www.figma.com/).
 - [HTML](https://www.w3schools.com/html/).
 - [CSS](https://www.w3schools.com/css/).
